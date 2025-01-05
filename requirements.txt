@@ -9,4 +9,3 @@ scipy
 scikit-learn
 streamlit
 opencv-python-headless
-opencv-python
