@@ -1,0 +1,10 @@
+flask
+torch
+pillow
+numpy
+torchvision
+opencv-python-headless
+segment-anything
+requests
+matplotlib
+transformers
