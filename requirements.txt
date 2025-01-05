@@ -5,7 +5,7 @@ matplotlib
 seaborn
 visualkeras
 keras
-opencv-python
+opencv-python-headless
 scipy
 scikit-learn
 streamlit
