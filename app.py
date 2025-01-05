@@ -2,6 +2,7 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
+import cv2
 from PIL import Image
 import io
 import visualkeras
@@ -13,7 +14,6 @@ from tensorflow.keras.layers import Input
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
-import cv2
 
 import random
 
