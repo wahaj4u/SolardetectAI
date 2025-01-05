@@ -7,4 +7,5 @@ opencv-python-headless
 segment-anything
 requests
 matplotlib
+tensorflow
 transformers
